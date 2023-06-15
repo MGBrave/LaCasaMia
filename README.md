@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://github.com/MGBrave/LaCasaMia/blob/main/landingpage/p1.png" alt="La Casa Mia" />
+<img src="https://github.com/MGBrave/LaCasaMia/blob/main/landingpage/full.png?raw=true" alt="La Casa Mia" />
 
 
 
